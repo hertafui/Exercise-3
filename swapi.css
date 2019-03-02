@@ -1,0 +1,21 @@
+
+th {
+    background-color:#f0b629;
+    color: white;
+  }
+
+tr:nth-child(even) {
+    background-color: #fdf0cb;
+}
+table, th, td {
+    border: 1px solid rgb(179, 123, 19);
+  }
+input {
+    padding: 5px;
+    margin-bottom: 5px;
+    
+}
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 12px;
+}
